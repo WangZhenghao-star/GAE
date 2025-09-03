@@ -1,0 +1,6 @@
+Supplementary Material for Nonlinear Causal Discovery Method Based on Graph Autoencoder
+The data folder contains all datasets required for the experiment. Among them, 768_1.csv is the standardized dataset of Pima Indian diabetes; LMCH_1.csv is the standardized dataset of diabetes in Iraq; 2000_1.csv is the standardized dataset of the National Health and Nutrition Examination Survey (NHANES).
+All codes involved in the experiment have been implemented. The experimental codes are stored in the "test" folder, which contains three files corresponding to the three datasets respectively. The other folders store tool codes.
+Supplementary Notes
+NHANES: The full name is "National Health and Nutrition Examination Survey", a large-scale national health and nutrition survey project launched by the U.S. Centers for Disease Control and Prevention (CDC). Its data is widely used in academic research fields such as public health, epidemiology, and medical statistics due to its representativeness and comprehensiveness.
+The file naming format (e.g., "XXX_1.csv") follows the common practice in academic research for standardized datasets, which helps to distinguish them from original datasets (usually named "XXX.csv") and ensures the clarity of data management.
